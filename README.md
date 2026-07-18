@@ -1,8 +1,5 @@
 <div align="center">
 
-# Claude Code — Leaked Source
-
-**The full source code of Anthropic's Claude Code CLI, leaked on March 31, 2026**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-512K%2B_lines-3178C6?logo=typescript&logoColor=white)](#tech-stack)
 [![Bun](https://img.shields.io/badge/Runtime-Bun-f472b6?logo=bun&logoColor=white)](#tech-stack)
