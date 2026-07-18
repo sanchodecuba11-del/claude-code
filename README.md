@@ -35,7 +35,6 @@
 
 ## Table of Contents
 
-- [How It Leaked](#how-it-leaked)
 - [What Is Claude Code?](#what-is-claude-code)
 - [Documentation](#-documentation)
 - [Explore with MCP Server](#-explore-with-mcp-server)
