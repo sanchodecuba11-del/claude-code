@@ -9,8 +9,6 @@
 [![npm](https://img.shields.io/npm/v/warrioraashuu-codemaster?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/warrioraashuu-codemaster)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 
-> The original unmodified leaked source is preserved in the [`backup` branch](https://github.com/codeaashu/claude-code/tree/backup).
-
 </div>
 
 ---
